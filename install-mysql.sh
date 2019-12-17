@@ -11,7 +11,6 @@ apt install mysql-server -y
 echo "Configuring MySQL"
 
 mysql_secure_installation <<EOF
-
 n
 root123
 root123
